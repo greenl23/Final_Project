@@ -1,0 +1,23 @@
+---
+title: "Final Project"
+          Step 6
+author: "Dominic"
+date: "5/9/2020"
+output: html_document
+
+---
+
+
+```{r}
+library(readr)
+Combined_Statistics <- read_csv("Combined_Statistics.CSV")
+View(Combined_Statistics)
+data<-Combined_Statistics
+
+```
+
+```{r}
+res.ftest <- var.test(Combined_Statistics$KarainCave_Summary ~ Combined_Statistics$OkuainiCave_Summary, data = data)
+res.ftest
+```
+

@@ -1,0 +1,36 @@
+﻿KarainCave_Summary,KC_Count,,OkuziniCave_Summary,OC_Count,,KoskHoyuk_Summary,KH_Count,,F-Test Two-Sample for Variances,,,,F-Test Two-Sample for Variances,,,,F-Test Two-Sample for Variances,,
+Accipitridae,21,,Accipitridae,3,,Aves,30,,,Karain Cave,Okuzini Cave,,,Karain Cave,Kosk Hoyuk,,,Okuzini Cave,Kosk Hoyuk
+Alectoris chukar,42,,Alectoris chukar,7,,Bos sp.,492,,,Variable 1,Variable 2,,,Variable 1,Variable 2,,,Variable 1,Variable 2
+Bos primigenius,4,,Anatidae,4,,Capra aegagrus/hircus,2,,Mean,243.9047619,193.5151515,,Mean,243.9047619,225,,Mean,193.5151515,225
+Canis lupus,9,,Anoura,2,,Capra sp.,335,,Variance,622663.2905,317231.6951,,Variance,622663.2905,200939.4118,,Variance,317231.6951,200939.4118
+Capra aegagrus,362,,Arvicolid,1,,Capreolus,1,,Observations,21,33,,Observations,21,35,,Observations,33,35
+Capreolus capreolus,4,,Bufonid,6,,Equus sp.,634,,df,20,32,,df,20,34,,df,32,34
+Columba sp.,3,,Canis lupus,2,,Erinaceid,4,,F,1.962802898,,,F,3.098761388,,,F,1.578743027,
+Dama dama,11,,Capra aegagrus,241,,large cervid,14,,P(F<=f) one-tail,0.043100572,,,P(F<=f) one-tail,0.001797758,,,P(F<=f) one-tail,0.096456033,
+Large bird,53,,Capreolus capreolus,44,,large equid,710,,F Critical one-tail,1.908258108,,,F Critical one-tail,1.887726794,,,F Critical one-tail,1.783043425,
+Lepus europaeus,48,,Cervus elaphus,11,,large mammal (Bos),330,,,,,,,,,,,,
+Lynx lynx,5,,Citellus citellus,3,,large to medium-sized mammal (large Sus),1,,,,,,,,,,,,
+Martes martes,1,,Cricetus cricetus,1,,large-sized artiodactyl,80,,,,,,,,,,,,
+Medium bird,35,,Dama dama,808,,Lepus sp.,71,,t-Test: Two-Sample Assuming Unequal Variances,,,,t-Test: Two-Sample Assuming Unequal Variances,,,,t-Test: Two-Sample Assuming Equal Variances,,
+Otis tarda,18,,Felis silvestris,5,,medium-sized artiodactyl (mostly Ovis/Capra/deer),185,,,Karain Cave,Okuzini Cave,,,Karain Cave,Kosk Hoyuk,,,Okuzini Cave,Kosk Hoyuk
+Ovis orientalis,900,,Hystricid,1,,medium-sized bovid,1,,,Variable 1,Variable 2,,,Variable 1,Variable 2,,,Variable 1,Variable 2
+Ovis/Capra,3571,,Lacertid,2,,medium-sized bovid/cervid,726,,Mean,243.9047619,193.5151515,,Mean,243.9047619,225,,Mean,193.5151515,225
+Small bird,13,,Large bird,34,,medium-sized canid,38,,Variance,622663.2905,317231.6951,,Variance,622663.2905,200939.4118,,Variance,317231.6951,200939.4118
+Small mammal (rabbit to medium dog),5,,Lepus europaeus,25,,medium-sized cervid,17,,Observations,21,33,,Observations,21,35,,Observations,33,35
+Sus scrofa,9,,Lynx lynx,1,,medium-sized mammal (Ovis/Capra/Gazella),279,,Hypothesized Mean Difference,0,,,Hypothesized Mean Difference,0,,,Pooled Variance,257323.5491,
+Ursus arctos,1,,Martes martes,13,,Meles meles,3,,df,33,,,df,28,,,Hypothesized Mean Difference,0,
+Vulpes vulpes,7,,Medium artiodactyl,1197,,Ovis sp.,1132,,t Stat,0.254299384,,,t Stat,0.100489373,,,df,66,
+,,,Medium bird,154,,Ovis/Capra,2275,,P(T<=t) one-tail,0.400421115,,,P(T<=t) one-tail,0.460335957,,,t Stat,-0.255798726,
+,,,Ovis orientalis,631,,Ovis/Capra/Gazella,2,,t Critical one-tail,1.692360309,,,t Critical one-tail,1.701130934,,,P(T<=t) one-tail,0.399450909,
+,,,Ovis/Capra,2968,,Panthera leo,1,,P(T<=t) two-tail,0.80084223,,,P(T<=t) two-tail,0.920671915,,,t Critical one-tail,1.668270514,
+,,,Ranid,3,,small carnivore,4,,t Critical two-tail,2.034515297,,,t Critical two-tail,2.048407142,,,P(T<=t) two-tail,0.798901817,
+,,,Rodent,30,,small cervid,15,,,,,,,,,,t Critical two-tail,1.996564419,
+,,,Sciurid,5,,small felid,1,,,,,,,,,,,,
+,,,Small bird,31,,small to medium-sized mammal (dog),24,,,,,,,,,,,,
+,,,Small carnivore,16,,small/medium equid,340,,,,,,,,,,,,
+,,,Small mammal (rabbit size),68,,small-sized mammal (<rabbit),4,,,,,,,,,,,,
+,,,Sus scrofa,26,,Sus scrofa,32,,,,,,,,,,,,
+,,,Testudo graeca,20,,Talpa,1,,,,,,,,,,,,
+,,,Vulpes vulpes,23,,Turtle,6,,,,,,,,,,,,
+,,,,,,unknown,4,,,,,,,,,,,,
+,,,,,,Vulpes sp.,81,,,,,,,,,,,,
